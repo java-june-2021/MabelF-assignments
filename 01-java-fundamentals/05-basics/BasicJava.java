@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Arrays;
+
 public class BasicJava {
     public static void print1To255() {
         for (int i = 1; i <= 255; i++) {
