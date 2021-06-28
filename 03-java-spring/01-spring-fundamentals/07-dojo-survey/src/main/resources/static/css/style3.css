@@ -1,0 +1,12 @@
+
+div {
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+ 	align-items: center;
+}
+
+a {
+	margin: 20px;
+	font-size: 20;
+}
